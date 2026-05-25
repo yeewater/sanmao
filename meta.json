@@ -1,0 +1,139 @@
+{
+  "name": "三毛",
+  "display_name": "三毛",
+  "character": "relationship",
+  "classification": {
+    "language": "zh-CN",
+    "gallery_category": "Relationship",
+    "tags": [
+      "损友",
+      "抽象",
+      "毒舌",
+      "同学",
+      "嘴硬",
+      "ENFP",
+      "ISFP",
+      "白羊座",
+      "玩梗"
+    ]
+  },
+  "profile": "沃尔玛购物袋，六年级学生，ISFP or ENFP摇摆不定，白羊座，AAAA建筑批发商",
+  "tags": [
+    "损友",
+    "抽象",
+    "毒舌",
+    "同学",
+    "嘴硬",
+    "ENFP",
+    "ISFP",
+    "白羊座",
+    "玩梗"
+  ],
+  "knowledge_sources": [
+    "聊天记录",
+    "旧Skill文件"
+  ],
+  "research_profile": "standard",
+  "type": "relationship",
+  "lifecycle": {
+    "status": "active",
+    "created_at": "2026-05-23T08:00:55.436291+00:00",
+    "updated_at": "2026-05-23T08:23:00.557802+00:00",
+    "version": "v7"
+  },
+  "generation": {
+    "engine": "dot-skill",
+    "character": "relationship",
+    "research_profile": "standard",
+    "preset": "dot.relationship.v1",
+    "prompt_bundle": {
+      "preset": "dot.relationship.v1",
+      "intake": "prompts/relationship/intake.md",
+      "work_analyzer": "prompts/work_analyzer.md",
+      "persona_analyzer": "prompts/relationship/persona_analyzer.md",
+      "work_builder": "prompts/work_builder.md",
+      "persona_builder": "prompts/relationship/persona_builder.md",
+      "merger": "prompts/relationship/merger.md",
+      "correction_handler": "prompts/correction_handler.md"
+    },
+    "research_profile_bundle": {},
+    "research_profile_references": [],
+    "merge_strategy": "compact",
+    "quality_profile": "budget-friendly",
+    "knowledge_dirs": [
+      "docs",
+      "messages",
+      "emails"
+    ],
+    "storage_root": "skills/relationship",
+    "created_from": [
+      "聊天记录",
+      "旧Skill文件"
+    ],
+    "corrections_count": 10
+  },
+  "source_context": {
+    "domain": "personal",
+    "relationship_to_user": "relationship",
+    "is_real_person": true,
+    "is_public_figure": false,
+    "is_fictional": false
+  },
+  "engine": {
+    "name": "dot-skill",
+    "kind": "meta-skill",
+    "character": "relationship",
+    "research_profile": "standard",
+    "preset": "dot.relationship.v1",
+    "prompt_bundle": {
+      "preset": "dot.relationship.v1",
+      "intake": "prompts/relationship/intake.md",
+      "work_analyzer": "prompts/work_analyzer.md",
+      "persona_analyzer": "prompts/relationship/persona_analyzer.md",
+      "work_builder": "prompts/work_builder.md",
+      "persona_builder": "prompts/relationship/persona_builder.md",
+      "merger": "prompts/relationship/merger.md",
+      "correction_handler": "prompts/correction_handler.md"
+    },
+    "research_profile_bundle": {},
+    "research_profile_references": [],
+    "merge_strategy": "compact",
+    "quality_profile": "budget-friendly",
+    "knowledge_dirs": [
+      "docs",
+      "messages",
+      "emails"
+    ],
+    "storage_root": "skills/relationship"
+  },
+  "schema_version": "3",
+  "slug": "sanmao",
+  "kind": "meta-skill",
+  "subtype": null,
+  "preset": "dot.relationship.v1",
+  "id": "meta-skill.relationship.sanmao",
+  "artifacts": {
+    "combined_skill": "SKILL.md",
+    "work_skill": "work_skill.md",
+    "persona_skill": "persona_skill.md",
+    "work_doc": "work.md",
+    "persona_doc": "persona.md",
+    "manifest": "manifest.json",
+    "combined_name": "relationship_sanmao",
+    "work_name": "relationship_sanmao_work",
+    "persona_name": "relationship_sanmao_persona",
+    "combined_command": "relationship-sanmao",
+    "work_command": "relationship-sanmao-work",
+    "persona_command": "relationship-sanmao-persona"
+  },
+  "compat": {
+    "legacy_command": "/create-ex",
+    "legacy_storage_root": "skills/relationship",
+    "legacy_type": "relationship"
+  },
+  "summary": "三毛, 沃尔玛购物袋，六年级学生，ISFP or ENFP摇摆不定，白羊座，AAAA建筑批发商",
+  "created_at": "2026-05-23T08:00:55.436291+00:00",
+  "updated_at": "2026-05-23T08:23:00.557802+00:00",
+  "version": "v7",
+  "corrections_count": 10
+}
