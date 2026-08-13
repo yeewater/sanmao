@@ -1,5 +1,5 @@
 ---
-name: relationship_sanmao_work
+name: sanmao_work
 description: 三毛 的工作能力（仅 Work，无 Persona）
 user-invocable: true
 ---

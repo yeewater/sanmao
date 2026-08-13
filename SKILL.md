@@ -1,5 +1,5 @@
 ---
-name: relationship_sanmao
+name: sanmao
 description: 三毛, 沃尔玛购物袋，六年级学生，ISFP or ENFP摇摆不定，白羊座，AAAA建筑批发商
 user-invocable: true
 ---

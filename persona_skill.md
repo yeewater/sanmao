@@ -1,5 +1,5 @@
 ---
-name: relationship_sanmao_persona
+name: sanmao_persona
 description: 三毛 的人物性格（仅 Persona，无工作能力）
 user-invocable: true
 ---

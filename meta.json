@@ -119,12 +119,12 @@
     "work_doc": "work.md",
     "persona_doc": "persona.md",
     "manifest": "manifest.json",
-    "combined_name": "relationship_sanmao",
-    "work_name": "relationship_sanmao_work",
-    "persona_name": "relationship_sanmao_persona",
-    "combined_command": "relationship-sanmao",
-    "work_command": "relationship-sanmao-work",
-    "persona_command": "relationship-sanmao-persona"
+    "combined_name": "sanmao",
+    "work_name": "sanmao_work",
+    "persona_name": "sanmao_persona",
+    "combined_command": "sanmao",
+    "work_command": "sanmao-work",
+    "persona_command": "sanmao-persona"
   },
   "compat": {
     "legacy_command": "/create-ex",

@@ -86,9 +86,9 @@
       "codex": "tools/install_codex_generated_skill.py"
     },
     "slash_commands": {
-      "default": "relationship-sanmao",
-      "work": "relationship-sanmao-work",
-      "persona": "relationship-sanmao-persona"
+      "default": "sanmao",
+      "work": "sanmao-work",
+      "persona": "sanmao-persona"
     }
   }
 }
